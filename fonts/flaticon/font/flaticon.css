@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 20/03/2019 02:18
+  	Creation date: 29/07/2020 04:24
   	*/
 
 @font-face {
@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
         font-size: 20px;
 font-style: normal;
@@ -39,3 +39,14 @@ margin-left: 20px;
 .flaticon-cpu:before { content: "\f106"; }
 .flaticon-database:before { content: "\f107"; }
 .flaticon-learning:before { content: "\f108"; }
+.flaticon-command-line:before { content: "\f109"; }
+.flaticon-medal:before { content: "\f10a"; }
+.flaticon-trophy:before { content: "\f10b"; }
+.flaticon-consult:before { content: "\f10c"; }
+.flaticon-teaching:before { content: "\f10d"; }
+.flaticon-teamwork:before { content: "\f10e"; }
+.flaticon-membership:before { content: "\f10f"; }
+.flaticon-organization:before { content: "\f110"; }
+.flaticon-headphones:before { content: "\f111"; }
+.flaticon-community:before { content: "\f112"; }
+.flaticon-support:before { content: "\f113"; }
